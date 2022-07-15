@@ -1,3 +1,6 @@
+// @author Ella Parker
+// @author Lance Queen
+
 package main
 
 import (
