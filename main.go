@@ -18,7 +18,7 @@ func main() {
 		</head>
 		<style>
 		body {
-			background-color: #DBF9FC;
+			background-color: #FFFDD0;
 			}
 		p {text-align: center;}
         .cell-green {
